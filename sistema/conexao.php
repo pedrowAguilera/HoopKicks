@@ -2,7 +2,7 @@
 
 $usuario = 'root';
 $senha = '';
-$banco = 'projetos';
+$banco = 'hoopkicks';
 $servidor = 'localhost';
 
 date_default_timezone_set('America/Sao_Paulo');
